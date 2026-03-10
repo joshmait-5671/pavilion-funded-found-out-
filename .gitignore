@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+data/
+auth/token.json
+output/
+screenshots/
+slides/
+logs/
+*.log
+.DS_Store
